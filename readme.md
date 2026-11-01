@@ -2,6 +2,9 @@
 
 Utilitário em Python para análise e segmentação de imagens baseadas em agrupamento de cores (K-Means). O projeto isola faixas de cores dominantes de uma imagem de entrada e exporta cada agrupamento como uma camada PNG transparente independente.
 
+## Motivação
+Encontrei um mapa em uma análise e gostaria de ver ele de formas diferentes, a distinguir áreas para um estudo pessoal.
+
 ## 📋 Pré-requisitos
 
 * Python 3.8+
